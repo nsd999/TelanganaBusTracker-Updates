@@ -1,6 +1,6 @@
-# Telangana Bus Tracker — APK updates
+# PrajaYatri — APK updates
 
-This public repository distributes signed Android APK updates for Telangana Bus Tracker. The application source code remains in the private repository `nsd999/TelanganaBusTracker`.
+This public repository distributes signed Android APK updates for PrajaYatri. The application source code remains in the private PrajaYatri repository `nsd999/TelanganaBusTracker`.
 
 ## Download links used by the app
 
